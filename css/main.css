@@ -1,3 +1,18 @@
 img {
     max-width: 150px;
+    float: left;
+    padding: 5px;
+}
+
+dl {
+    clear: both;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+dd {
+    margin-left: 0;
 }
